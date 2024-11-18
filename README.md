@@ -10,22 +10,13 @@
 
 ### Hi There, I'm Ram Michaeli <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-## About Me 🌟
+## 🌟 About Me
 
-<ul type="none">
-<li>🎓 Computer Science graduate with honors from <a href="https://www.hit.ac.il/">Holon Institute of Technology (HIT)</a></li>
-<li>🏅 Dean's List Award in the second year and President's List Award in the third year</li>
-<li>💡 Creative and innovative problem solver</li>
-<li>💪 Highly motivated with a strong work ethic</li>
-<li>🧠 Quick learner, adept at self-learning new technologies</li>
-<li>🤝 Team player with excellent interpersonal skills</li>
-<li>🌐 Experienced in backend development with Node.js, Express.js, and MongoDB</li>
-<li>🚀 Always eager to tackle new challenges and real-world problems</li>
-<li>📈 Looking to leverage my skills in a challenging position</li>
-<li>🏀 Enjoy basketball, music, and exploring new technology</li>
-</ul>
-<br/>
+I am a highly motivated recent Computer Science graduate from [Holon Institute of Technology](https://www.hit.ac.il/), with a CAN-DO approach and a strong work ethic. My self-learning ability enables me to adapt easily to new technologies, and I work efficiently under pressure. As a team player with excellent interpersonal skills, I excel in collaborative environments.
 
+I have developed projects using a variety of programming languages and frameworks, focusing on back-end development and cloud technologies. Some of my key achievements include creating RESTful APIs using Node.js and Express, as well as working with databases like MongoDB and Firebase. I am currently looking for a challenging position where I can further develop my skills as a software engineer.
+
+In my spare time, I enjoy hiking, gaming, and exploring new tech. I'm always excited about tackling new challenges and applying my skills to real-world problems.
 
 ## ⚡ Languages and Technologies
 
@@ -74,7 +65,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rammichaeli17&theme=dark&hide_border=true&mode=weekly&background=2F4F4F)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rammichaeli17&theme=dark&hide_border=true&mode=weekly&background=2F4F4F)](https://github.com/RamMichaeli17?tab=repositories)
 
 
 <p align="center">
@@ -85,14 +76,11 @@
 
 Here are a few key projects I’ve worked on that showcase my skills in backend development:
 
-- **[Online Shop](https://github.com/rammichaeli17/Online-Shop)**: A full-featured e-commerce platform built with Node.js, Express.js, and MongoDB. This project includes user authentication, product management, shopping cart functionality, and order processing. Technologies used: Node.js, Express.js, MongoDB, EJS, Stripe, and SendGrid.
-
-- **[Social Blog](https://github.com/rammichaeli17/Social-Blog)**: A comprehensive full-stack social network and blog application developed using Node.js, Express.js, MongoDB, and React. This project features user authentication, CRUD operations for posts, comments, file uploads, and GraphQL integration. Technologies used: Node.js, Express.js, MongoDB, React, GraphQL, Apollo Server, and Socket.io.
-
-- **[Community Management System](https://github.com/rammichaeli17/Community)**: A system designed for efficient management and import of personnel information within a company, using Java, Spring Boot, and H2 database. This project includes RESTful API services, complex queries, async programming, and data integration from multiple API resources. Technologies used: Java, Spring Boot, H2, RESTful API, Jackson, Spring HATEOAS, Swagger UI, and Data REST.
+- **[Project 1](https://github.com/rammichaeli17/project1)**: A detailed description of your first key project. Describe what it does, technologies used, and any challenges you overcame.
+- **[Project 2](https://github.com/rammichaeli17/project2)**: A description of your second project, focusing on features, your contributions, and any notable results.
+- **[Project 3](https://github.com/rammichaeli17/project3)**: Highlight another major project with a focus on skills learned and technologies utilized.
 
 Feel free to explore these repositories to get a better understanding of my work.
-
 
 ## 📫 How to Reach Me
 
@@ -102,3 +90,7 @@ Feel free to explore these repositories to get a better understanding of my work
   <a href="mailto:ram153486@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" /></a>&nbsp;
   <a href="https://github.com/rammichaeli17" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="50" /></a>
 </p>
+
+## 🎉 Fun Facts
+- I love hiking and exploring new places.
+- Avid gamer and tech enthusiast, always eager to learn new things.
