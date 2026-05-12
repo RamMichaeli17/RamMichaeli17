@@ -64,12 +64,14 @@
 ![MFC](https://img.shields.io/badge/-MFC-00599C?&logo=cplusplus&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=redis&logoColor=white)&nbsp;
 
 ### :rocket: &nbsp; Additional Skills
 ![OOP](https://img.shields.io/badge/-OOP-1D4E89?&logo=oop&logoColor=white)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-ML-4B8BBE?&logo=python&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?&logo=selenium&logoColor=white)&nbsp;
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-3DDC84?&logo=api&logoColor=white)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?&logo=puppeteer&logoColor=white)&nbsp;
 
 
 ## 📈 GitHub Stats
@@ -84,6 +86,8 @@
 ## 📌 Top Projects
 
 Here are a few key projects I’ve worked on that showcase my skills in backend development:
+
+- **[Project Link Converter & AI Insights](https://github.com/RamMichaeli17/Dira)**: A sophisticated location intelligence tool designed for Israel's "Mechir Lamishtaken" lotteries. It performs real-time web scraping to extract and mathematically convert legacy ITM coordinates to global GPS standards, coupled with dynamic AI-powered neighborhood analysis. Built with a focus on high-performance task queueing, smart caching, and zero-cost cloud architecture. Technologies used: Node.js, Express.js, Puppeteer, Redis, Google Gemini API, Proj4, and Vanilla JS.
 
 - **[Online Shop](https://github.com/rammichaeli17/Online-Shop)**: A full-featured e-commerce platform built with Node.js, Express.js, and MongoDB. This project includes user authentication, product management, shopping cart functionality, and order processing. Technologies used: Node.js, Express.js, MongoDB, EJS, Stripe, and SendGrid.
 
